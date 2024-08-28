@@ -9,10 +9,9 @@ redirect_from:
 
 About me
 ====
-My current research interest is multimedia AIGC multimedia generative model.
+My current research interest is multimedia generation.
 
 I am currently a undergraduate student at the South China University of Technology(SCUT), majoring in artificial intelligence.
-
 
 News
 ====
